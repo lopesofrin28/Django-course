@@ -1,0 +1,50 @@
+body{
+  background: #14b5c7;
+}
+
+h1{
+  border: 1px solid black;
+}
+
+.thanks{
+  background: yellow;
+}
+
+h2{
+  color: purple;
+}
+
+#itemone{
+  text-decoration: overline;
+  color: purple;
+}
+
+#textblock{
+  border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+
+#mail,#pass{
+  border: 5px solid orange;
+}
+
+submit{
+  border: 5px solid orange;
+}
+
+.exit{
+  background: blue;
+  border:4px dashed yellow;
+}
+
+div p{
+  background: yellow;
+}
+
+a{
+color: red;
+}
+a:visited{
+  color:blue;
+}
