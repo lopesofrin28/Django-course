@@ -1,2 +1,2 @@
 # Django-course 
-Files about everything learnt in django course
+Files about everything learnt in Python Django course
